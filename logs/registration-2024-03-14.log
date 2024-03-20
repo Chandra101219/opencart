@@ -1,0 +1,58 @@
+18:13:33.678 [main] INFO  test_cases.Login_test - Entering the Login details
+18:13:33.815 [main] INFO  test_cases.Login_test - Entered the username
+18:13:33.892 [main] INFO  test_cases.Login_test - Entered the password
+18:13:33.947 [main] INFO  test_cases.Login_test - clicked on login
+18:13:33.948 [main] INFO  test_cases.Login_test - logged in successfully
+18:13:34.541 [main] INFO  test_cases.Login_test - *****  Execution of Login_test is completed *****
+18:42:39.551 [main] INFO  test_cases.Registration_logs - **** starts executing Registraion_logs test case
+18:42:39.714 [main] INFO  test_cases.Registration_logs - clicked on myaccount
+18:42:40.222 [main] INFO  test_cases.Registration_logs - selected register and clicked on Register 
+18:42:40.224 [main] INFO  test_cases.Registration_logs - Entering the required details for signup 
+18:42:43.705 [main] INFO  test_cases.Registration_logs - validating the successfull registartion 
+18:42:43.705 [main] INFO  test_cases.Registration_logs - successfull registration message matched 
+18:42:43.709 [main] INFO  test_cases.Registration_logs - **** finished executing Registration_logs test case  *****
+18:42:45.616 [main] INFO  test_cases.Login_test - ***** Starting Execution of Login_test *****
+18:42:45.616 [main] DEBUG test_cases.Login_test - logging of debug logs
+18:42:45.718 [main] INFO  test_cases.Login_test - clicked on myaccount
+18:42:46.232 [main] INFO  test_cases.Login_test - selected login and clicked on login 
+18:42:46.232 [main] INFO  test_cases.Login_test - Entering the Login details
+18:42:46.325 [main] INFO  test_cases.Login_test - Entered the username
+18:42:46.401 [main] INFO  test_cases.Login_test - Entered the password
+18:42:46.465 [main] INFO  test_cases.Login_test - clicked on login
+18:42:46.465 [main] INFO  test_cases.Login_test - logged in successfully
+18:42:46.958 [main] INFO  test_cases.Login_test - *****  Execution of Login_test is completed *****
+19:32:42.103 [main] INFO  test_cases.Registration_logs - **** starts executing Registraion_logs test case
+19:32:42.255 [main] INFO  test_cases.Registration_logs - clicked on myaccount
+19:32:42.863 [main] INFO  test_cases.Registration_logs - selected register and clicked on Register 
+19:32:42.864 [main] INFO  test_cases.Registration_logs - Entering the required details for signup 
+19:32:46.292 [main] INFO  test_cases.Registration_logs - validating the successfull registartion 
+19:32:46.293 [main] INFO  test_cases.Registration_logs - successfull registration message matched 
+19:32:46.295 [main] INFO  test_cases.Registration_logs - **** finished executing Registration_logs test case  *****
+19:32:48.271 [main] INFO  test_cases.Login_test - ***** Starting Execution of Login_test *****
+19:32:48.271 [main] DEBUG test_cases.Login_test - logging of debug logs
+19:32:48.440 [main] INFO  test_cases.Login_test - clicked on myaccount
+19:32:48.978 [main] INFO  test_cases.Login_test - selected login and clicked on login 
+19:32:48.978 [main] INFO  test_cases.Login_test - Entering the Login details
+19:32:49.090 [main] INFO  test_cases.Login_test - Entered the username
+19:32:49.165 [main] INFO  test_cases.Login_test - Entered the password
+19:32:49.228 [main] INFO  test_cases.Login_test - clicked on login
+19:32:49.228 [main] INFO  test_cases.Login_test - logged in successfully
+19:32:49.737 [main] INFO  test_cases.Login_test - *****  Execution of Login_test is completed *****
+19:40:58.149 [main] INFO  test_cases.Registration_logs - **** starts executing Registraion_logs test case
+19:40:58.281 [main] INFO  test_cases.Registration_logs - clicked on myaccount
+19:40:58.809 [main] INFO  test_cases.Registration_logs - selected register and clicked on Register 
+19:40:58.809 [main] INFO  test_cases.Registration_logs - Entering the required details for signup 
+19:41:02.263 [main] INFO  test_cases.Registration_logs - validating the successfull registartion 
+19:41:02.263 [main] INFO  test_cases.Registration_logs - successfull registration message matched 
+19:41:02.267 [main] INFO  test_cases.Registration_logs - **** finished executing Registration_logs test case  *****
+19:41:04.203 [main] INFO  test_cases.Login_test - ***** Starting Execution of Login_test *****
+19:41:04.203 [main] DEBUG test_cases.Login_test - logging of debug logs
+19:41:04.303 [main] INFO  test_cases.Login_test - clicked on myaccount
+19:41:04.736 [main] INFO  test_cases.Login_test - selected login and clicked on login 
+19:41:04.736 [main] INFO  test_cases.Login_test - Entering the Login details
+19:41:04.858 [main] INFO  test_cases.Login_test - Entered the username
+19:41:04.924 [main] INFO  test_cases.Login_test - Entered the password
+19:41:04.981 [main] INFO  test_cases.Login_test - clicked on login
+19:41:04.981 [main] INFO  test_cases.Login_test - logged in successfully
+19:41:05.514 [main] INFO  test_cases.Login_test - *****  Execution of Login_test is completed *****
+19:41:32.747 [main] INFO  test_cases.Registration_logs - **** starts executing Registraion_logs test case
